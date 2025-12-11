@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza Nur</h1>
-<h3 align="center">I'm studying Computer Engineering  at the Ondokuz Mayıs University.</h3>
+<h3 align="center">I'm Computer Engineer.</h3>
 
 
 
